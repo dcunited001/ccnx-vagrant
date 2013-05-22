@@ -2,7 +2,6 @@
 *.gem
 .rvmrc
 .bundle
-Gemfile.lock
 pkg/*
 .guard_history
 Procfile
